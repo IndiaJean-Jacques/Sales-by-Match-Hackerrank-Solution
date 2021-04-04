@@ -2,7 +2,6 @@
 """
 Created on Sat Apr  3 22:16:39 2021
 
-@author: UKIAJ001
 """
  def sockMerchant(n, ar):
     dictnocolor = {}
